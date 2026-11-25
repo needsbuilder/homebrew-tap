@@ -1,6 +1,6 @@
 cask "keyvo" do
-  version "0.2.14"
-  sha256 "006825188edb19274bc794d839e38e9a4d712b50fab82f88084018c0a30d76e0"
+  version "0.2.15"
+  sha256 "85988cd5aa7c4765646b668bcbb756faba4d4d59f9a2889fb3dd1a1c84170ab4"
 
   url "https://keyvo.needslab.ai/download/Keyvo-#{version}.dmg"
   name "Keyvo"
